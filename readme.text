@@ -1,0 +1,8 @@
+ the youtube video that I was following 
+ https://www.youtube.com/watch?v=HlYFW2zaYQM
+ 
+installing the dependencies 
+npm install express install web-push express body-parser
+
+generating vapid keys
+ ./node_modules/.bin/web-push generate-vapid-keys
